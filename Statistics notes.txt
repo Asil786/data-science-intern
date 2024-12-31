@@ -1,0 +1,30 @@
+--Satistics:-
+
+(Types of data in stats).
+
+*Numerical- 
+-Continuous
+ It is numerical value which can take any fraction value and they can be infinite value.
+-Discrete- It can only take whole number value.
+Ex-class count
+*Categorical-They are string values which does not have any mathematical meaning to it.
+Ex.-Gender,country,name.
+*Oridinal/Nominal-They are string values but have matrthematical meaning to it
+Ex. movie rating,feedback.
+
+(Central Tendency).
+*Mean- means Average
+*Median- for Middle Value
+*Mode- Highest categorical value.
+-Skewed which contains the different value in the list is called 
+-Outliers the value which is in list which skewed value ia called the outlier.
+
+*Varience- Average of sum of square of distance from the mean.
+*Standard deviation - is square root of varience
+*IQR- Intetr Quartile range.
+From the median of 25% value from both the side of the median is first and second quarter and the other values is outliers.
+*Covariance -How one value is changing with the other value, its always in the number subtract from the mean value which is denoted by X and Y
+*Correlation -Covariance / Standard deviation
+*Supervised- 
+Regresion (Numeric)
+Classification (Categorical) 
